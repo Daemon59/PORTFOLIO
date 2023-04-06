@@ -1,6 +1,6 @@
 ## My Portfolio
 
-This is my portfolio website, built with HTML5 and CSS3. It showcases some of my projects and provides a brief introduction to me.
+This is my portfolio website, built with HTML and CSS. It showcases some of my projects and provides a brief introduction to me.
 
 ## Project Structure
 
